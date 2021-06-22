@@ -14,4 +14,4 @@ The Belly Button Biodiversity Dashboard is an interactive webpage based off a da
 - Data Source: [Belly Button Sample Set](https://npvandyke.github.io/Plotly_Projects/static/samples.json)
 
 ## Link to Belly Button Biodiversity Webpage: 
-The deployed website is accessible through [Github Pages](https://npvandyke.github.io/Plotly_Projects/)
+The deployed webpage is accessible through [Github Pages](https://npvandyke.github.io/Plotly_Projects/)
